@@ -1,1 +1,1 @@
-Simply repo to tinker with Cloudsnorkels Private Runner
+Simply repo to tinker with Cloudsnorkel Private Runner
